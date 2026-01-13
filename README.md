@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -17,7 +18,34 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests](https://facebook.gi# InvenSure App 🧾📦
+
+InvenSure is an inventory and expiry tracking application designed to help businesses manage products efficiently and avoid losses due to expired items.
+
+## 🚀 Features
+- Add, update, and delete products
+- Track product expiry dates
+- Highlight near-expiry and expired items
+- Dashboard with inventory statistics
+- Simple and user-friendly interface
+
+## 🛠 Tech Stack
+- *Frontend:* React
+- *Backend:* Node.js, Express
+- *Database:* MongoDB
+- *API Handling:* Axios
+
+## 📂 Project Structure
+- src/components – UI components
+- src/api – API calls
+- src/pages – Application pages
+- src/App.js – Main app component
+
+## ▶ How to Run the Project Locally
+
+1. Install dependencies:
+```bash
+npm installthub.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -68,3 +96,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# InvenSureApp
+>>>>>>> f1ed8c911a0f2f2b1c42c2e59e40db3ce569f2b3
